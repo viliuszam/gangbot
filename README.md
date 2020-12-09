@@ -9,4 +9,4 @@ Dependencies for anybody willing to compile this atrocity (no gradle or maven, s
 * OpenQA Selenium Webdriver
 
 
-Don't expect this to be updated and/or touched ever again, lol
+Don't expect this to be updated and/or touched ever again, this is very old lol
